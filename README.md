@@ -4,6 +4,8 @@ https://aka.ms/eossurvey
 # Partner Offers
 https://aka.ms/next_steps
 
+# Hands on Labs 
+https://aka.ms/hol
 
 # Windows Server and SQL Server 2008 R2 end of support planning
 
