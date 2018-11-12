@@ -1,7 +1,8 @@
 # Feedback
-[aka.ms/eossurvey] (aka.ms/eossurvey)
+https://aka.ms/eossurvey
+
 # Partner Offers
-[aka.ms/next_steps] (aka.ms/next_steps)
+https://aka.ms/next_steps
 
 
 # Windows Server and SQL Server 2008 R2 end of support planning
