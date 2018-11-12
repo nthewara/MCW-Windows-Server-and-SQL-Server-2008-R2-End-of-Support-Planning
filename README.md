@@ -1,11 +1,9 @@
-# Feedback
-https://aka.ms/eossurvey
-
 # Partner Offers
 https://aka.ms/next_steps
 
 # Hands on Labs 
 https://aka.ms/hol
+https://github.com/Microsoft/MCW-Data-Platform-upgrade-and-migration/tree/master/Hands-on%20lab
 
 # Windows Server and SQL Server 2008 R2 end of support planning
 
